@@ -1,5 +1,7 @@
 # Image Renamer  
-A lightweight, scrollable GUI that lets you batch-review, rename, and delete images in a single folder.
+A lightweight, scrollable GUI that lets you batch-review, rename, and delete images in a single folder. Janky but workable!
+
+![Screenshot](screenshot.png)
 
 ---
 
